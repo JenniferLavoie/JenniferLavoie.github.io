@@ -1,11 +1,11 @@
 # Site settings
 author: Jennifer Lavoie
-title: 
+title: My World in Data
 header-img: img/home-bg.png
 email: pele3313@gmail.com
 copyright_name: Jennifer Lavoie
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Tales from a Data Science Student
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  JenniferLavoie
